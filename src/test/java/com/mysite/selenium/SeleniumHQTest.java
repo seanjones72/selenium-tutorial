@@ -7,7 +7,7 @@ import org.junit.Test;
 
 @Config(
         browser = Browser.CHROME,
-        url = "http://www.google.com"
+        url = "http://www.seleniumhq.com"
 )
 
 /**
